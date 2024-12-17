@@ -79,7 +79,3 @@ Feel free to contribute! If you have suggestions, enhancements, or find bugs, su
 ## 📜 License
 
 This project is licensed under the **MIT License**.
-
----
-
-### 🎉 Happy Coding!
