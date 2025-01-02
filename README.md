@@ -58,7 +58,6 @@ A **simple yet powerful** To-Do List application built with **Python**, **Tkinte
 
 ## 🌟 Project Highlights
 
-- Sleek buttons with rounded corners.
 - A responsive and modern interface.
 - Easily extendable for additional features like due dates, categories, and priorities.
 
